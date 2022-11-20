@@ -8,4 +8,4 @@
 
 К примеру:
 
-<img src="https://i.imgur.com/wkqDTei.png" width="300">
+<img src="https://i.imgur.com/wkqDTei.png" width="300"> <img src="https://i.imgur.com/tXe5Yfq.png" width="300">
